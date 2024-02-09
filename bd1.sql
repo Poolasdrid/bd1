@@ -23,3 +23,4 @@ CREATE TABLE Pagos (
     FOREIGN KEY (EstudianteID) REFERENCES Estudiantes(EstudianteID),
     FOREIGN KEY (CursoID) REFERENCES Cursos(CursoID)
 );
+nuevos cambios
